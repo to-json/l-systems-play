@@ -1,0 +1,4 @@
+refactor for fun-mode
+tests: at least a few
+try cljs version
+web interface? stretch goal.
